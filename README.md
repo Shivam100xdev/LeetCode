@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
