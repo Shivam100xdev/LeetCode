@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/Shivam100xdev/LeetCode/tree/master/0420-strong-password-checker) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0321-create-maximum-number) |
 | [0420-strong-password-checker](https://github.com/Shivam100xdev/LeetCode/tree/master/0420-strong-password-checker) |
 | [0561-array-partition](https://github.com/Shivam100xdev/LeetCode/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Shivam100xdev/LeetCode/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Queue
 |  |
 | ------- |
