@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Shivam100xdev/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/Shivam100xdev/LeetCode/tree/master/0709-to-lower-case) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
