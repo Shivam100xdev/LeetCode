@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivam100xdev/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shivam100xdev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shivam100xdev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shivam100xdev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0179-largest-number) |
