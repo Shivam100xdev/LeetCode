@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivam100xdev/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Shivam100xdev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shivam100xdev/LeetCode/tree/master/0075-sort-colors) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam100xdev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shivam100xdev/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shivam100xdev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shivam100xdev/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0321-create-maximum-number) |
