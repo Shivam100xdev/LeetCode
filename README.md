@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Shivam100xdev/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivam100xdev/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Shivam100xdev/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 ## Binary Search
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Shivam100xdev/LeetCode/tree/master/0657-robot-return-to-origin) |
 ## Trie
 |  |
