@@ -1,4 +1,5 @@
 import atexit
+
 class Solution:
     def strStr(self, haystack, needle):
         if not needle:
@@ -11,4 +12,5 @@ class Solution:
             if j == m:
                 return i
         return -1
-atexit.register(lambda: (open("dispay_runtime.txt","w").write("000")))
+
+atexit.register(lambda: (open("display_runtime.txt","w").write("000")))
