@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Shivam100xdev/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0321-create-maximum-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0321-create-maximum-number) |
 | [0494-target-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0494-target-sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shivam100xdev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shivam100xdev/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shivam100xdev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
@@ -221,4 +223,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivam100xdev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
