@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shivam100xdev/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Shivam100xdev/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Shivam100xdev/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Shivam100xdev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shivam100xdev/LeetCode/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Shivam100xdev/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
