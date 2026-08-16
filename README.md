@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivam100xdev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Shivam100xdev/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivam100xdev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shivam100xdev/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Shivam100xdev/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Shivam100xdev/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
