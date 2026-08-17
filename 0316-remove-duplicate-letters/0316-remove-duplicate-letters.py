@@ -18,7 +18,5 @@ class Solution(object):
         return "".join(stack)
 
 
-s = Solution()
-print s.removeDuplicateLetters("bcabc")     
-print s.removeDuplicateLetters("cbacdcbc") 
+ 
 atexit.register(lambda: (open("display_runtime.txt","w").write("000")))
