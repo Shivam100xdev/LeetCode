@@ -1,21 +1,15 @@
 import atexit
-class Solution(object):
-    def strongPasswordChecker(self, password):
-        n = len(password)
+class Solution:
+    def strongPasswordChecker(self, s):
+        n = len(s)
+        missing = 3 - any(c.islower() for c in s) \
+                    - any(c.isupper() for c in s) \
+                    - any(c.isdigit() for c in s)
 
-        missing = 3
-        if any(c.islower() for c in password):
-            missing -= 1
-        if any(c.isupper() for c in password):
-            missing -= 1
-        if any(c.isdigit() for c in password):
-            missing -= 1
-
-        groups = []
-        i = 0
+        groups, i = [], 0
         while i < n:
             j = i
-            while j < n and password[j] == password[i]:
+            while j < n and s[i] == s[j]:
                 j += 1
             if j - i >= 3:
                 groups.append(j - i)
@@ -31,32 +25,14 @@ class Solution(object):
 
         delete = n - 20
 
-        for i in range(len(groups)):
-            if delete == 0:
-                break
-            if groups[i] % 3 == 0:
-                d = min(delete, 1)
-                groups[i] -= d
-                delete -= d
+        for r in range(3):
+            for i in range(len(groups)):
+                if delete and groups[i] >= 3 and groups[i] % 3 == r:
+                    d = min(delete, r + 1 if r < 2 else groups[i] - 2)
+                    groups[i] -= d
+                    delete -= d
 
-        for i in range(len(groups)):
-            if delete == 0:
-                break
-            if groups[i] >= 3 and groups[i] % 3 == 1:
-                d = min(delete, 2)
-                groups[i] -= d
-                delete -= d
-
-        for i in range(len(groups)):
-            if delete == 0:
-                break
-            if groups[i] >= 3:
-                d = min(delete, groups[i] - 2)
-                groups[i] -= d
-                delete -= d
-
-        replace = sum(x // 3 for x in groups if x >= 3)
-
-        return (n - 20) + max(missing, replace)
-
+        replace = sum(x // 3 for x in groups)
+        return n - 20 + max(missing, replace)
+        
 atexit.register(lambda: (open("display_runtime.txt","w").write("000")))        
