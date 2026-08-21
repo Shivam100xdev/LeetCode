@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shivam100xdev/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Shivam100xdev/LeetCode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivam100xdev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivam100xdev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Shivam100xdev/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Shivam100xdev/LeetCode/tree/master/0709-to-lower-case) |
+| [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shivam100xdev/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
