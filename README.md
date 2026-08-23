@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Shivam100xdev/LeetCode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
+| [2614-prime-in-diagonal](https://github.com/Shivam100xdev/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivam100xdev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shivam100xdev/LeetCode/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2614-prime-in-diagonal](https://github.com/Shivam100xdev/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivam100xdev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2614-prime-in-diagonal](https://github.com/Shivam100xdev/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivam100xdev/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/Shivam100xdev/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Primality Test
 |  |
 | ------- |
