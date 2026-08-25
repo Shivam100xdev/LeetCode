@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shivam100xdev/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Shivam100xdev/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/Shivam100xdev/LeetCode/tree/master/0282-expression-add-operators) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shivam100xdev/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
 | [0321-create-maximum-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Shivam100xdev/LeetCode/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/Shivam100xdev/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shivam100xdev/LeetCode/tree/master/0139-word-break) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
