@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivam100xdev/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Shivam100xdev/LeetCode/tree/master/0282-expression-add-operators) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shivam100xdev/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shivam100xdev/LeetCode/tree/master/0412-fizz-buzz) |
