@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Shivam100xdev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Shivam100xdev/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shivam100xdev/LeetCode/tree/master/0066-plus-one) |
