@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shivam100xdev/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shivam100xdev/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Shivam100xdev/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/Shivam100xdev/LeetCode/tree/master/0282-expression-add-operators) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shivam100xdev/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Shivam100xdev/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shivam100xdev/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Shivam100xdev/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shivam100xdev/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam100xdev/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shivam100xdev/LeetCode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
