@@ -327,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Shivam100xdev/LeetCode/tree/master/0061-rotate-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shivam100xdev/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
