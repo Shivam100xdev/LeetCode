@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0494-target-sum) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Shivam100xdev/LeetCode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 ## Complete Knapsack
 |  |
@@ -329,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Shivam100xdev/LeetCode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivam100xdev/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
