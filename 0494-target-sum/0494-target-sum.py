@@ -1,4 +1,4 @@
-import atexit
+
 class Solution(object):
     def findTargetSumWays(self, nums, target):
         dp = {0: 1}
@@ -13,5 +13,3 @@ class Solution(object):
 
         return dp.get(target, 0)        
 
-atexit.register(lambda: (open("display_runtime.txt","w").write("000")))
-        
