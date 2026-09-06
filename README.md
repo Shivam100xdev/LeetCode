@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivam100xdev/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shivam100xdev/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shivam100xdev/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Shivam100xdev/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Shivam100xdev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/Shivam100xdev/LeetCode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Shivam100xdev/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0344-reverse-string) |
