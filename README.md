@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Shivam100xdev/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Shivam100xdev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivam100xdev/LeetCode/tree/master/0704-binary-search) |
 | [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shivam100xdev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shivam100xdev/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Shivam100xdev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
