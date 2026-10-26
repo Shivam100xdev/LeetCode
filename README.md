@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shivam100xdev/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam100xdev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam100xdev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0494-target-sum) |
 | [0561-array-partition](https://github.com/Shivam100xdev/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
