@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shivam100xdev/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Shivam100xdev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam100xdev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0447-number-of-boomerangs](https://github.com/Shivam100xdev/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Shivam100xdev/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Shivam100xdev/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Shivam100xdev/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shivam100xdev/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Shivam100xdev/LeetCode/tree/master/0412-fizz-buzz) |
+| [0447-number-of-boomerangs](https://github.com/Shivam100xdev/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0564-find-the-closest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2614-prime-in-diagonal](https://github.com/Shivam100xdev/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shivam100xdev/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shivam100xdev/LeetCode/tree/master/0409-longest-palindrome) |
+| [0447-number-of-boomerangs](https://github.com/Shivam100xdev/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shivam100xdev/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0567-permutation-in-string) |
