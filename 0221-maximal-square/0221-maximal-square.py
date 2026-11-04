@@ -8,7 +8,7 @@ class Solution(object):
         largest = 0
 
         for row in matrix:
-            diagonal = 0
+            diagonal = 1
 
             for j in range(1, cols + 1):
                 top = dp[j]
