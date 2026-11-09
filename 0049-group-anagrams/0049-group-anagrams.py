@@ -6,7 +6,7 @@ class Solution(object):
             count = [0] * 26
 
             for ch in word:
-                count[ord(ch) - ord('a')] += 1
+                count[ord(ch) - ord('a')] -= 1
 
             key = tuple(count)
 
