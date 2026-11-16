@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shivam100xdev/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam100xdev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivam100xdev/LeetCode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Shivam100xdev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivam100xdev/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/Shivam100xdev/LeetCode/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivam100xdev/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam100xdev/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Shivam100xdev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Shivam100xdev/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shivam100xdev/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Shivam100xdev/LeetCode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Shivam100xdev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Shivam100xdev/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/Shivam100xdev/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Database
 |  |
 | ------- |
