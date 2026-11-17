@@ -1,16 +1,17 @@
-import atexit
+
 class Solution:
     def lengthOfLongestSubstring(self, s):
-        char_index = {}
-        left = 0
-        max_len = 0
-        for right, ch in enumerate(s):
-            if ch in char_index and char_index[ch] >= left:
-                left = char_index[ch] + 1
-            char_index[ch] = right
-            max_len = max(max_len, right - left + 1)
-        return max_len
+        last_seen = {}
+        start = 0
+        longest = 0
 
+        for end, char in enumerate(s):
+            last_position = last_seen.get(char, -1)
 
+            if last_position >= start:
+                start = last_position + 1
 
-atexit.register(lambda: (open("display_runtime.txt","w").write("000")))
+            last_seen[char] = end
+            longest = max(longest, end - start + 1)
+
+        return longest
