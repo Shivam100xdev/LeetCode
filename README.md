@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Shivam100xdev/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Shivam100xdev/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/Shivam100xdev/LeetCode/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/Shivam100xdev/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/Shivam100xdev/LeetCode/tree/master/0709-to-lower-case) |
 | [0966-vowel-spellchecker](https://github.com/Shivam100xdev/LeetCode/tree/master/0966-vowel-spellchecker) |
@@ -328,18 +329,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Shivam100xdev/LeetCode/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Shivam100xdev/LeetCode/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Shivam100xdev/LeetCode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam100xdev/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Shivam100xdev/LeetCode/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
